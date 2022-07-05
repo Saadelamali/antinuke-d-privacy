@@ -4,7 +4,7 @@ Anti-Nuke bot stores your discord server id for the custom prefix, enabling and 
 
 ### The Features
 
-[!image](https://media.discordapp.net/attachments/821094047543590992/993961845356498955/unknown.png)
+![image](https://media.discordapp.net/attachments/821094047543590992/993961845356498955/unknown.png)
 
 ### You want to delete data?
 
